@@ -1,0 +1,20 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "moment": "^2.29.1"
+  }
+}
